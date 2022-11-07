@@ -12,6 +12,6 @@ The best way to understand something is when you test it. Please try **Football 
 
 **Football Dolphin API**: Link 1- https://rapidapi.com/georgievdatascience-bYAvW_z25SU/api/football-dolphin
 
-If you want to see all Football Dolphin API endpoints in DataFrames and Diagrams, you can visit Football Dolphin Web App.
+If you want to see all **Football Dolphin API** endpoints in DataFrames and Diagrams, you can visit **Football Dolphin Web App**.
 
 **Football Dolphin Web App**: Link 2 - https://footballdolphin.herokuapp.com/
