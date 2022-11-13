@@ -10,8 +10,23 @@ The project **“Football Dolphin”** analyzes database with 10 260 football ma
 
 The best way to understand something is when you test it. Please try **Football Dolphin API** and **Football Dolphin Web App** on the links below.
 
-**Football Dolphin API**: Link 1- https://rapidapi.com/georgievdatascience-bYAvW_z25SU/api/football-dolphin
+**1. Football Dolphin API**: 
+
+**1. 1. RapidAPI Hub:** https://rapidapi.com/georgievdatascience-bYAvW_z25SU/api/football-dolphin
+
+<img src ="images/rapidapi 1.png" >
+
+**1. 2. Source Code:** https://github.com/GeorgievDataScience/Football-Dolphin-API
+
 
 If you want to see all **Football Dolphin API** endpoints in DataFrames and Diagrams, you can visit **Football Dolphin Web App**.
 
-**Football Dolphin Web App**: Link 2 - https://footballdolphin.herokuapp.com/
+
+**2. Football Dolphin Web App**: 
+
+**2.1. Web App:** https://football-dolphin-web-app.up.railway.app/
+
+<img src ="images/streamlit.PNG" >
+
+
+**2.2. Source Code:** https://github.com/GeorgievDataScience/Football-Dolphin-Web-App
